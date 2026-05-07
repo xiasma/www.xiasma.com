@@ -8,7 +8,25 @@
       "Bash(git -C D:/dev/www.xiasma.com branch --show-current)",
       "Bash(git -C D:/dev/www.xiasma.com log --oneline -5)",
       "Bash(git -C D:/dev/www.xiasma.com config user.name)",
-      "Bash(git -C D:/dev/www.xiasma.com config user.email)"
+      "Bash(git -C D:/dev/www.xiasma.com config user.email)",
+      "Bash(nslookup xiasma.com 1.1.1.1)",
+      "Bash(nslookup www.xiasma.com 1.1.1.1)",
+      "Bash(nslookup xiasma.com 8.8.8.8)",
+      "Bash(nslookup www.xiasma.com 8.8.8.8)",
+      "Bash(nslookup -type=NS xiasma.com 1.1.1.1)",
+      "Bash(nslookup -type=CNAME www.xiasma.com 1.1.1.1)",
+      "Bash(nslookup -type=AAAA xiasma.com 1.1.1.1)",
+      "Bash(nslookup -type=CAA xiasma.com 1.1.1.1)",
+      "Bash(nslookup -type=CAA www.xiasma.com 1.1.1.1)",
+      "Bash(curl -sI https://www.xiasma.com/ --max-time 15)",
+      "Bash(curl -sI http://www.xiasma.com/ --max-time 15)",
+      "Bash(curl -sI http://xiasma.com/ --max-time 15)",
+      "Bash(nslookup xiasma.com ns1.livedns.co.uk)",
+      "Bash(nslookup -type=A xiasma.com ns1.livedns.co.uk)",
+      "Bash(curl -sI https://xiasma.com/ --max-time 15)",
+      "Bash(curl -sI --resolve xiasma.com:80:185.199.108.153 http://xiasma.com/ --max-time 15)",
+      "Bash(curl -v -o /dev/null --max-time 15 https://xiasma.com/)",
+      "Bash(curl -v -o /dev/null --max-time 15 https://www.xiasma.com/)"
     ]
   }
 }
