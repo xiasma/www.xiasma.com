@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from docx import Document; d=Document\\('Xiasma_Website_Builder_Pack.docx'\\); [print\\(p.text\\) for p in d.paragraphs]\")",
+      "Bash(python -m pip install python-docx --quiet)",
+      "Bash(python *)",
+      "Bash(git -C D:/dev/www.xiasma.com remote -v)",
+      "Bash(git -C D:/dev/www.xiasma.com branch --show-current)",
+      "Bash(git -C D:/dev/www.xiasma.com log --oneline -5)",
+      "Bash(git -C D:/dev/www.xiasma.com config user.name)",
+      "Bash(git -C D:/dev/www.xiasma.com config user.email)"
+    ]
+  }
+}

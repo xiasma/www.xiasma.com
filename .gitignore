@@ -1,0 +1,23 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# Logs and temp
+*.log
+.tmp/
+.cache/
+
+# Claude Code local state (commit project config in .claude/ if you want; ignore session/scratch)
+.claude/local/
+.claude/sessions/
+.claude/cache/

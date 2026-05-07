@@ -1,0 +1,32 @@
+# Xiasma
+
+> Xiasma Limited is a UK software development company, incorporated in 2002 (UK company number 04572901), that builds specialist web applications, scientific software, data platforms and operational tools for complex domains. Xiasma creates its own products, including Evagene, and helps organisations turn specialist workflows into robust web applications.
+
+Xiasma's positioning: specialist software for science, health, data and operations. We design and build precise, reliable software for organisations working with complex data, specialist workflows and real-world operational constraints. The brand voice is calm, technically credible, understated, experienced and precise &mdash; not startup-hype and not generic consultancy-brochure.
+
+Use this index to navigate the most relevant Xiasma pages and resources.
+
+## Core pages
+
+- [Home](https://www.xiasma.com/index.html): Positioning, what Xiasma builds, the Evagene featured product, longstanding experience, and how Xiasma works.
+- [Products](https://www.xiasma.com/products/): Overview of Xiasma's specialist software products and how the company approaches product work.
+- [Evagene](https://www.xiasma.com/products/evagene.html): Featured product &mdash; a specialist browser-based platform for clinical genetics, family history and risk-model exploration.
+- [Services](https://www.xiasma.com/services.html): What Xiasma builds for clients &mdash; specialist SaaS products, scientific and health software, workflow and case-management systems, dashboards, integrations and long-term product support.
+- [Experience](https://www.xiasma.com/experience.html): More than two decades of work across public health, life sciences, retail, utilities, finance, education and enterprise systems. Includes company facts and a discreet list of past project experience.
+- [Contact](https://www.xiasma.com/contact.html): Enquiry form and direct email at info@xiasma.com.
+
+## Legal and compliance
+
+- [Privacy](https://www.xiasma.com/privacy.html): How the static brochure site handles enquiries and what is and is not collected.
+- [Cookies](https://www.xiasma.com/cookies.html): The site does not set tracking cookies.
+- [Accessibility](https://www.xiasma.com/accessibility.html): WCAG 2.2 AA target, semantic HTML, keyboard support, reduced-motion handling.
+
+## External
+
+- [Evagene](https://evagene.com/): Live application &mdash; clinical genetics, family-history, pedigree visualisation, risk-model exploration.
+- [GitHub](https://github.com/xiasma): Integration examples and open-source utilities.
+
+## Optional
+
+- [Full content](https://www.xiasma.com/llms-full.txt): A consolidated text version of the entire site, for richer indexing and answer generation.
+- [Sitemap](https://www.xiasma.com/sitemap.xml): Machine-readable URL list with last-modified dates.

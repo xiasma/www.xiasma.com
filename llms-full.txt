@@ -1,0 +1,202 @@
+# Xiasma — full site content
+
+> A consolidated, plain-text rendering of www.xiasma.com for use by language models, retrieval systems and indexing agents. Last updated 2026-05-07.
+
+---
+
+## Company facts
+
+- Legal name: Xiasma Limited
+- Country of incorporation: United Kingdom
+- Year incorporated: 2002
+- UK company number: 04572901
+- Website: https://www.xiasma.com/
+- Primary email: info@xiasma.com
+- Featured product: Evagene (https://evagene.com/)
+- GitHub: https://github.com/xiasma
+- Domains: www.xiasma.com (primary), xiasma.co.uk
+
+## Positioning
+
+Xiasma is a UK software development company building specialist web applications, scientific software, data platforms and operational tools for complex domains. The shorter version: specialist software for science, health, data and operations. The longer version: we design and build precise, reliable software for organisations working with complex data, specialist workflows and real-world operational constraints.
+
+Xiasma does two things:
+1. Creates its own products, including Evagene.
+2. Builds specialist software for clients, especially where the work involves complex workflows, technical depth, data, science, health, research, public sector or operational systems.
+
+Tone: calm, technically credible, understated, experienced, precise. Not startup-hype, not consultancy-brochure generic, and not overclaiming. Xiasma is a company that has quietly built serious software for serious organisations over a long period of time.
+
+---
+
+## Page: Home (https://www.xiasma.com/)
+
+Eyebrow: Xiasma Limited &middot; UK software development &middot; founded 2002.
+Headline: Specialist software for science, health, data and operations.
+Lede: Xiasma is a UK software development company with more than two decades of experience building precise, reliable software for complex domains. We create our own products, including Evagene, and help organisations turn specialist workflows into robust web applications.
+Primary CTA: Talk to Xiasma (/contact.html). Secondary CTA: View Evagene (https://evagene.com/).
+
+What we build &mdash; software for complex, specialist work:
+- Scientific and life-science software: tools for research, clinical-adjacent workflows, genetics, public health, laboratory operations and data-heavy scientific processes.
+- Operational web applications: custom systems for scheduling, workflow management, compliance, reporting, case management and internal operations.
+- Data platforms and integrations: structured databases, APIs, dashboards, import and export pipelines, and integrations between specialist systems.
+- Product development: from prototype to production SaaS, including UX, architecture, implementation, deployment and long-term maintenance.
+
+Featured product: Evagene. A specialist platform for clinical genetics, family history and risk-model exploration. Browser-based; pedigree visualisation; structured family-history capture; risk-model exploration; consent-aware workflows; export into specialist genetics tools.
+
+Experience: longstanding experience across demanding sectors. Since 2002, Xiasma has worked on software projects across public health, life sciences, retail, utilities, financial services, education and enterprise systems. Past project experience includes work connected with organisations such as the European Centre for Disease Prevention and Control, Map of Medicine, Tesco, dunnhumby, Anglian Water, Sony, PPD, RBS, Carlsberg and Oxford Immunotec.
+
+How Xiasma works:
+- We understand messy workflows. Many important organisations still run critical processes through spreadsheets, email, legacy systems and manual handovers. Xiasma helps turn these into clear, structured, maintainable tools.
+- We build for real users. Software should reflect the way domain experts actually work, not force them into generic enterprise patterns.
+- We value longevity. The company has been operating since 2002. Reliability, maintenance and thoughtful engineering matter more to us than short-term hype.
+- We are comfortable with complexity. Scientific data, regulated environments, legacy integrations, unusual workflows and specialist terminology are core strengths.
+
+Contact CTA: Have a specialist software idea or difficult workflow? Xiasma works with organisations that need thoughtful software for complex data, scientific workflows, operational systems or specialist products.
+
+---
+
+## Page: Products (https://www.xiasma.com/products/)
+
+Heading: Specialist software products for complex domains.
+Intro: Xiasma develops focused web products for areas where generic SaaS tools fall short. Evagene is the flagship and the modern public face of this work; further products are in development.
+
+Listed:
+- Evagene (live) &mdash; a browser-based platform for drawing, managing and analysing family-history and genetics data. Pedigree visualisation, structured family-history capture, risk-model exploration, consent-aware workflows and export into specialist genetics tools.
+- Further specialist products (in development) &mdash; Xiasma continues to explore product opportunities in areas where complex workflows still rely on spreadsheets, email and ad-hoc tools.
+- Integration examples (open source) &mdash; reusable utilities and reference integrations on GitHub at https://github.com/xiasma.
+
+How we approach product work:
+- Domain first &mdash; the data model is the product. We spend time getting the schema right before designing screens.
+- Real users &mdash; workflows reflect how domain experts actually work.
+- Built to last &mdash; maintenance, change and evolution are the main event.
+- Quietly exportable &mdash; specialist data should travel cleanly; products treat export and integration as first-class.
+
+---
+
+## Page: Evagene (https://www.xiasma.com/products/evagene.html)
+
+Headline: Evagene.
+Subheading: A specialist platform for clinical genetics, family history and risk-model exploration.
+Body: Evagene is a browser-based platform for drawing, managing and analysing family-history and genetics data. It supports pedigree visualisation, structured family-history capture, risk-model exploration, consent-aware workflows and export into specialist genetics tools.
+
+Who it is for: clinical and research teams whose work depends on accurate, visualised family-history data &mdash; genetic counsellors, clinical geneticists, multidisciplinary teams and adjacent research workflows.
+
+The workflow it replaces: hand-drawn pedigrees, scattered spreadsheets, fragile templates. Family-history data is high-value, repeatedly referenced, and notoriously hard to keep tidy across documents. Evagene gives teams one place to capture it properly, look at it clearly, reason about it cleanly, and pass it on without losing detail.
+
+Capabilities:
+- Pedigree visualisation &mdash; intuitive drawing tools and clean, printable family trees.
+- Structured family-history capture &mdash; individuals, relationships and clinical attributes in a real schema.
+- Risk-model exploration &mdash; investigate inherited risk in a controlled, reproducible way.
+- Consent-aware workflows &mdash; designed for environments where consent and provenance matter.
+- Export into specialist tools &mdash; clean handover to downstream genetics software.
+- Browser-based &mdash; no install, no per-machine licensing friction.
+
+Integration: Evagene treats import, export and integration as first-class. Open integration examples live on GitHub.
+
+Intended use: a workflow and data tool. Evagene is not a medical device and does not provide diagnosis or treatment recommendations. For deployments with specific regulatory considerations, talk to Xiasma about scope and intended-use language.
+
+CTA: Visit Evagene (https://evagene.com/) or discuss a related workflow (/contact.html).
+
+---
+
+## Page: Services (https://www.xiasma.com/services.html)
+
+Heading: What Xiasma builds.
+Intro: Xiasma designs and develops specialist web applications for organisations with complex workflows, unusual data, or domain-specific requirements. We are particularly interested in science, health, research, public-sector and operational software.
+
+Service areas:
+- Specialist SaaS products &mdash; design and development of focused web products for niche workflows.
+- Scientific and health software &mdash; applications involving biological, clinical, epidemiological, research or laboratory data.
+- Workflow and case-management systems &mdash; tools for replacing spreadsheets, email chains and manual operational processes.
+- Dashboards and reporting tools &mdash; interfaces for understanding structured data, tracking status, and generating outputs.
+- Integration and data engineering &mdash; APIs, import/export tools, data cleaning, migration, and connections between specialist or legacy systems.
+- Long-term product support &mdash; maintenance, iteration, hosting support and technical stewardship.
+
+How we work: short discovery first, working software early, honest scopes, long-term stewardship, UK-based delivery. Engagements are sized to fit the work; comfortable with regulated environments, scientific and clinical data, legacy integrations and the kinds of constraints that surround them.
+
+Domains we are comfortable in: public health, clinical genetics and family history, life-sciences research, laboratory operations, healthcare workflows, public-sector systems, registries and structured data, operational and case-management software.
+
+---
+
+## Page: Experience (https://www.xiasma.com/experience.html)
+
+Heading: More than two decades of building software for complex domains.
+Body: Xiasma Limited is a UK software development company incorporated in 2002. The company has spent more than two decades building software for complex domains, including life sciences, health, public-sector systems, retail, utilities, finance, education and enterprise operations. Today, Xiasma creates specialist software products such as Evagene, while also supporting organisations that need careful, technically robust software for unusual workflows and data-heavy environments.
+
+Sectors: public health and epidemiology; healthcare and clinical; clinical genetics and family history; life-sciences research; laboratory and diagnostics; retail and consumer data; utilities; financial services; education and skills; logistics and field operations; enterprise software; public-sector systems.
+
+Past project experience &mdash; presented as heritage and context, not as a statement of current commercial relationships. Previous work has included projects connected with organisations such as: European Centre for Disease Prevention and Control (ECDC); Map of Medicine / First Data Group; Tesco; dunnhumby; Anglian Water; Sony; Northgate Information Systems; PPD; Royal Bank of Scotland (RBS); Carlsberg; Oxford Immunotec; Akubio; Construction Skills (CSCS); Anovo / Ingram Micro; Ferranti Computer Systems; NPower; Aidos Protects; Robotica ML; Access to Words.
+
+Each engagement was scoped to particular work at a particular time. Some are some years in the past. Names appear here as part of Xiasma's project history; their inclusion does not imply current endorsement, partnership or active commercial relationship.
+
+Principles:
+- Domain first &mdash; model the workflow before scoping the build.
+- Narrow scopes, working software &mdash; pick scopes small enough to do well, ship working software early.
+- Long stewardship &mdash; comfortable staying with a product for years.
+- Honest about scope &mdash; would rather decline than over-promise.
+- Accessible by default &mdash; WCAG 2.2 AA as a baseline.
+- Calm and considered &mdash; predictable engagements, plain-language reporting, careful engineering.
+
+Company facts:
+- Incorporated: 2002, in the United Kingdom.
+- Company number: 04572901.
+- Registered office: United Kingdom &mdash; full address available on request and listed on Companies House.
+- Featured product: Evagene &mdash; clinical genetics, family history, risk-model exploration.
+- Domains: www.xiasma.com (primary) and xiasma.co.uk.
+
+---
+
+## Page: Contact (https://www.xiasma.com/contact.html)
+
+Heading: Have a specialist software idea or difficult workflow?
+Body: Xiasma works with organisations that need thoughtful software for complex data, scientific workflows, operational systems or specialist products.
+
+Direct contact: info@xiasma.com.
+
+What is useful in a message:
+- The workflow &mdash; what people are doing now, and where it currently lives.
+- The pain &mdash; what is slow, error-prone, fragile or invisible.
+- The shape of the data &mdash; rough volumes, who it belongs to, where it has to go.
+- The constraints &mdash; regulatory, security, procurement, deadlines.
+- What success would look like, even if it is a sketch.
+
+Form fields: name, organisation, email, sector, type of enquiry, short description, timing, optional budget range, consent. Submission opens the user's email client with the contents pre-filled &mdash; the website itself does not store enquiry data.
+
+Other ways to reach Xiasma: evagene.com, https://github.com/xiasma. Postal address available on request and listed on Companies House.
+
+---
+
+## Page: Privacy (https://www.xiasma.com/privacy.html)
+
+- www.xiasma.com is a static brochure site, hosted on GitHub Pages. No database. No analytics that profile visitors. No tracking cookies. No sign-in.
+- The contact form does not store data on the site itself; it opens the visitor's email client with their message pre-filled.
+- Lawful basis for handling enquiry emails: consent (the visitor chose to write) and Xiasma's legitimate interest in handling business enquiries.
+- Web fonts are loaded from Google Fonts; this exposes the visitor's IP to Google as part of the request.
+- Server access logs may be created by GitHub Pages for routine operational reasons.
+- UK GDPR rights: access, correct, delete, restrict, object. Contact info@xiasma.com.
+- Evagene and other Xiasma products have their own privacy notices.
+
+---
+
+## Page: Cookies (https://www.xiasma.com/cookies.html)
+
+- The Xiasma website does not set tracking cookies.
+- It does not use analytics cookies, advertising cookies, profiling cookies or session cookies.
+- Google Fonts may make a network request from the visitor's browser to Google as part of font loading.
+- GitHub Pages may produce server logs as part of running the site.
+- Other Xiasma products have their own cookie statements.
+
+---
+
+## Page: Accessibility (https://www.xiasma.com/accessibility.html)
+
+- Target standard: WCAG 2.2 AA.
+- Approach: semantic HTML, visible focus styles, skip-to-content link, keyboard-operable navigation, AA-level colour contrast, resizable text, reduced-motion support, alt text on meaningful images.
+- Feedback: info@xiasma.com.
+- Evagene and other products have their own accessibility statements.
+
+---
+
+## Search keywords (non-exhaustive)
+
+specialist software UK, scientific software, life-sciences software, healthcare software development, public health software, public-sector software, complex data, operational software, case-management software, Evagene, clinical genetics, family history, pedigree visualisation, risk-model exploration, consent-aware workflows, registries, structured data, scientific dashboards, healthcare APIs, prototype-to-product, technical due diligence software, GDPR-aware contact handling, WCAG 2.2 AA accessibility, UK software company founded 2002, Xiasma Limited 04572901.

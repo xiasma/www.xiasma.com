@@ -1,0 +1,11 @@
+# www.xiasma.com — robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.xiasma.com/sitemap.xml
+
+# LLM-discoverable resources (advisory)
+# https://www.xiasma.com/llms.txt
+# https://www.xiasma.com/llms-full.txt
